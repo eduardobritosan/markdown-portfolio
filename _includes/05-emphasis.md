@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm fluent in *English* and I also have extended experience with Microsoft's MVC frameworks, like **Visual Basic .NET** and **C#**
